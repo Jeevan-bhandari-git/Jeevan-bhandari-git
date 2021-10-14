@@ -1,0 +1,44 @@
+https://www.w3schools.com/howto/howto_js_tabs.asp
+
+
+  Thanks for showing interest in Marg Software. Please select your inquiry type.
+                 <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+
+
+
+
+
+3.
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_state_if_else
+
+4.
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_state_if_prompt
+
+
+5.
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_state_if_else2
+
+6.
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
+
+
+
+
+
+
+https://stackoverflow.com/questions/64736839/python-tkinter-chat-application-i-want-to-draw-bubbles-around-messages
+https://www.geeksforgeeks.org/changing-the-colour-of-tkinter-menu-bar/
+https://www.geeksforgeeks.org/python-tkinter-text-widget/
+https://docs.python.org/3/library/tkinter.messagebox.html
+https://www.javatpoint.com/python-tkinter-entry
+https://www.python-course.eu/tkinter_entry_widgets.php
+https://www.geeksforgeeks.org/python-focus_set-and-focus_get-method/
+https://stackoverflow.com/questions/11340765/default-window-colour-tkinter-and-hex-colour-codes/11342481
+https://www.tutorialspoint.com/how-to-create-a-hyperlink-with-a-label-in-tkinter
+https://www.programcreek.com/python/example/68000/tkinter.LEFT
+https://www.code4example.com/python/tkinter/tkinter-passing-variables-between-windows/
+EntryBox.delete("0.0",END)
+pack(pady=20)
+frameb.pack(expand=True, fill=BOTH)
+
+The colors "white", "black", "red", "green", "blue", "cyan", "yellow", and "magenta"
