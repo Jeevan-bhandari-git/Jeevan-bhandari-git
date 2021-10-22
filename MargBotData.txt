@@ -1,0 +1,15 @@
+:: G1MargChatBot
+:: launches Marg Chatbot Data for Python AI Chatbot
+@echo off
+setlocal
+echo ''
+echo ''
+echo *** WELCOME TO MARG CHATBOT DATA GENERATION ***
+echo ''
+cd "C:\Users\jeevan_1953\mysqlite"
+call env\scripts\activate
+start http://10.10.10.164:5000/
+setTimeout(function(){ window.location.href = window.location.href; }, 3000);
+python C:\Users\jeevan_1953\mysqlite\crud.py %*
+setlocal enabledelayedexpansion
+endlocal

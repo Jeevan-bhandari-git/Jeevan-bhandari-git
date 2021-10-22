@@ -1,0 +1,17 @@
+:: G1MargChatBot
+:: launches Marg Chatbot Data for Python AI Chatbot
+@echo off
+setlocal
+echo ''
+echo ''
+echo *** WELCOME TO MARG PYTHON AI-CHATBOT  ***
+echo ''
+pause
+cd "C:\Users\jeevan_1953\pyjschat"
+call venv\scripts\activate
+python C:\Users\jeevan_1953\pyjschat\train_chatbot.py %*
+start http://127.0.0.1:5000/
+%SendKeys% "{CTRL+R}"
+python C:\Users\jeevan_1953\pyjschat\app.py %*
+setlocal enabledelayedexpansion
+endlocal
