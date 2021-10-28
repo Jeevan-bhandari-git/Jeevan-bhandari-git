@@ -1,0 +1,19 @@
+C:\Users\jeevan_1953\pyjschat2>python -m venv env
+C:\Users\jeevan_1953\pyjschat2>.\env\Scripts\activate
+(env) C:\Users\jeevan_1953\pyjschat2>pip install Flask torch torchvision nltk
+python
+>> import nltk
+>> nltk.download('punkt')
+ctrl+z
+
+(env) C:\Users\jeevan_1953\pyjschat2>python train.py
+(env) C:\Users\jeevan_1953\pyjschat2>python chat.py
+
+ok....
+
+(env) C:\Users\jeevan_1953\pyjschat2>pip install CORS
+(env) C:\Users\jeevan_1953\pyjschat2>python -m pip install --upgrade pip
+(env) C:\Users\jeevan_1953\pyjschat2>pip install flask_cors
+(env) C:\Users\jeevan_1953\pyjschat2>pip install wikipedia
+http://127.0.0.1:5000/
+
